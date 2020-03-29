@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/detectionFile">
+        <file>source/SVM_HOG.xml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>images/guide1.jpg</file>
+        <file>images/guide2.jpg</file>
+        <file>images/guide3.jpg</file>
+        <file>images/guide4.jpg</file>
+    </qresource>
+</RCC>
