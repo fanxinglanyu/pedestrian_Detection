@@ -9,3 +9,8 @@
 # 4 完整程序
 自提：
 链接:https://pan.baidu.com/s/1hsGrjYxBowbiRMCR8CTlaw  密码:eh2j
+# 5 效果图
+放在博客里：
+https://blog.csdn.net/qq_33375598/article/details/97771450
+# 6 后记
+初次接触图像处理，接触qt，花了半个月学习编程搞定，练手写出的第一个程序。能力有限，望各位大佬们轻批，谢谢。
